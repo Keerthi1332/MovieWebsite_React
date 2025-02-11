@@ -11,7 +11,7 @@ This is a movies website built using ReactJS that fetches movie information from
 
 ## Tech Stack
 
-- **Frontend**: ReactJS, tailwind CSS
+- **Frontend**: ReactJS (Vite), tailwind CSS
 - **State Management**: React State (useState, useEffect)
 - **Database**: Appwrite
 - **API**: The Movie Database (TMDb) API (or any other movie API of your choice)
